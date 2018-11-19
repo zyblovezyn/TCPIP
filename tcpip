@@ -35,6 +35,6 @@ FIN The sender is finished sending data.
    3.保活(keeplive)定时器可检测到一个空闲连接的另一端何时崩溃或重启。
    4.2MSL定时器测量一个连接处于TIME_WAIT状态的时间
  
-
+-- test
 
 

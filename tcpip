@@ -53,4 +53,8 @@ Discard Servicer:The remote host is running a 'discard' service. This service; t
    2.坚持(persist)定时器使窗口大小信息保持不断流动，即使另一端关闭了其接收窗口。
    3.保活(keeplive)定时器可检测到一个空闲连接的另一端何时崩溃或重启。
    4.2MSL定时器测量一个连接处于TIME_WAIT状态的时间
+--------------------21超时与重传-------------------- 
+
+
+
 
